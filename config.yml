@@ -1,0 +1,24 @@
+#设置上钩时的提示音
+Sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+#Title设置
+TitleOption:
+  #是否开启
+  Enable: true
+  #主Title
+  Title: "有东西上钩了"
+  #副Title
+  SubTitle: "快拉起来看看"
+  #淡入Tick
+  FadeIn: 2
+  #停留Tick
+  Stay: 20
+  #淡出Tick
+  FadeOut: 2
+#ActionBar设置
+ActionBarOption:
+  Enable: true
+  Message: "&7有东西上钩了..."
+#公屏设置
+ChatBarOption:
+  Enable: true
+  Message: "&7有东西上钩了"
