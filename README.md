@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FishSound
-=======
-# FishSound
->>>>>>> aeebbcdf8f03949c0a82b7dc65479a8b893c255e
+# FishSound  
 一个基于BukkitAPI制作的插件
+A Bukkit plugin which depend on BukkitAPI
